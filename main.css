@@ -76,6 +76,13 @@ p{
 .navbar a{
     color: gray;
 }
+.format-image{
+    float: left;
+    border-radius: 305px;
+    height: 550px;
+    width: 550px;
+    padding: 30px;
+}
 
 
 .img-info h4{
