@@ -1,1 +1,1 @@
-https://juanita-benjamin.github.io/Website/index.html
+https://juanita-benjamin.github.io/Juanita.com/
