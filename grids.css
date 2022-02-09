@@ -34,11 +34,32 @@ html {
     transition: .3s ease-in-out;
     backface-visibility: hidden;
     margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .img:hover {
-    opacity: 0.7;
-    text-align: center;
+    opacity: 0.5;
+    box-shadow: 0 0 0 300px rgba(0, 0, 0, 0.9) inset;
+    /*text-align: center;*/
+}
+
+.img p{
+    opacity: 0;
+    transform: scale(0);
+    transition: 0.8s;
+    font-size: 2rem;
+    color: white;
+}
+
+img:hover p{
+    opacity: 1;
+    transform: scale(1);
+}
+
+.hide {
+    display: none;
 }
 
 .container {
