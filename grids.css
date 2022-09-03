@@ -77,43 +77,43 @@ img:hover p{
     margin-left: 500px;
 }
 
-.navbar {
-    overflow: hidden;
-   /* background-color: #333*/;
-    position: sticky;
-    position: -webkit-sticky;
-    top: 0;
-    font-family: Apple Color Emoji, Segoe UI, Segoe UI Emoji, Segoe UI Symbol;
-    font-weight: bold;
-}
+/*.navbar {*/
+/*    overflow: hidden;*/
+/*   !* background-color: #333*!;*/
+/*    position: sticky;*/
+/*    position: -webkit-sticky;*/
+/*    top: 0;*/
+/*    font-family: Apple Color Emoji, Segoe UI, Segoe UI Emoji, Segoe UI Symbol;*/
+/*    font-weight: bold;*/
+/*}*/
 
-/* Style the navigation bar links */
-.navbar a {
-    float: left;
-    display: block;
-    color: gray;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
-}
+/*!* Style the navigation bar links *!*/
+/*.navbar a {*/
+/*    float: left;*/
+/*    display: block;*/
+/*    color: gray;*/
+/*    text-align: center;*/
+/*    padding: 14px 20px;*/
+/*    text-decoration: none;*/
+/*}*/
 
 
-/* Right-aligned link */
-.navbar a.right {
-    float: right;
-}
+/*!* Right-aligned link *!*/
+/*.navbar a.right {*/
+/*    float: right;*/
+/*}*/
 
-/* Change color on hover */
-.navbar a:hover {
-    background-color: #ddd;
-    color: black;
-}
+/*!* Change color on hover *!*/
+/*.navbar a:hover {*/
+/*    background-color: #ddd;*/
+/*    color: black;*/
+/*}*/
 
-/* Active/current link */
-.navbar a.active {
-    background-color: #666;
-    color: white;
-}
+/*!* Active/current link *!*/
+/*.navbar a.active {*/
+/*    background-color: #666;*/
+/*    color: white;*/
+/*}*/
 .overlay{
     height: 0%;
     width: 100%;
